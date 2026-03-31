@@ -1,4 +1,4 @@
-# MiCard - Flutter App
+# MiCard - Flutter App (Custom Version)
 
 A simple personal business card app built using Flutter.
 
